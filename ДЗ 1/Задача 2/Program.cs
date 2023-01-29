@@ -2,10 +2,10 @@
 Console.Clear();
 
 Console.Write("Ввести первое число ");
-int n1 = int.Parse(Console.ReadLine());
+int n1 = int.Parse(Console.ReadLine()!);
 
 Console.Write("Ввести второе число ");
-int n2 = int.Parse(Console.ReadLine());
+int n2 = int.Parse(Console.ReadLine()!);
 
 int max = n1;
 
