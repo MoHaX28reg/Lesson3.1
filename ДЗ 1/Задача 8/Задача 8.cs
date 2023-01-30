@@ -10,7 +10,6 @@ while (count < N)
     if (count % 2 == 0)
     {
         Console.Write($"{count} ");
-        count += 1;
     }
-    else { count += 1; }
+    count += 1;
 }
