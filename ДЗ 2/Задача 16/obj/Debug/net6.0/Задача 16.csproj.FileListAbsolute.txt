@@ -1,0 +1,15 @@
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.csproj.AssemblyReference.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.AssemblyInfoInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.AssemblyInfo.cs
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.csproj.CoreCompileInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\bin\Debug\net6.0\Задача 16.exe
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\bin\Debug\net6.0\Задача 16.deps.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\bin\Debug\net6.0\Задача 16.runtimeconfig.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\bin\Debug\net6.0\Задача 16.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\bin\Debug\net6.0\Задача 16.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\refint\Задача 16.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\Задача 16.genruntimeconfig.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 2\Задача 16\obj\Debug\net6.0\ref\Задача 16.dll
