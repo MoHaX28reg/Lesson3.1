@@ -1,0 +1,15 @@
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.csproj.AssemblyReference.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.AssemblyInfoInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.AssemblyInfo.cs
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.csproj.CoreCompileInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\bin\Debug\net6.0\Задача 43 в2.exe
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\bin\Debug\net6.0\Задача 43 в2.deps.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\bin\Debug\net6.0\Задача 43 в2.runtimeconfig.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\bin\Debug\net6.0\Задача 43 в2.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\bin\Debug\net6.0\Задача 43 в2.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\refint\Задача 43 в2.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\Задача 43 в2.genruntimeconfig.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 6\Задача 43 в2\obj\Debug\net6.0\ref\Задача 43 в2.dll
