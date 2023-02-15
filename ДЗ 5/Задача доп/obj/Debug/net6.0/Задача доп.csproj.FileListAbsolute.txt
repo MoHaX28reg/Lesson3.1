@@ -1,0 +1,15 @@
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.csproj.AssemblyReference.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.AssemblyInfoInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.AssemblyInfo.cs
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.csproj.CoreCompileInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\bin\Debug\net6.0\Задача доп.exe
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\bin\Debug\net6.0\Задача доп.deps.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\bin\Debug\net6.0\Задача доп.runtimeconfig.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\bin\Debug\net6.0\Задача доп.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\bin\Debug\net6.0\Задача доп.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\refint\Задача доп.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\Задача доп.genruntimeconfig.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 5\Задача доп\obj\Debug\net6.0\ref\Задача доп.dll
