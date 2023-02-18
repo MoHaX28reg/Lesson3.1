@@ -1,0 +1,15 @@
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.csproj.AssemblyReference.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.AssemblyInfoInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.AssemblyInfo.cs
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.csproj.CoreCompileInputs.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\bin\Debug\net6.0\Задача 53.exe
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\bin\Debug\net6.0\Задача 53.deps.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\bin\Debug\net6.0\Задача 53.runtimeconfig.json
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\bin\Debug\net6.0\Задача 53.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\bin\Debug\net6.0\Задача 53.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\refint\Задача 53.dll
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.pdb
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\Задача 53.genruntimeconfig.cache
+C:\Users\MoHaX28reg\OneDrive\Рабочий стол\Учёба ГБ Разработчик\3. Основы програмирования\Задание 1\ДЗ 7\Задача 53\obj\Debug\net6.0\ref\Задача 53.dll
